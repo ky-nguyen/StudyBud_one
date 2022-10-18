@@ -1,4 +1,6 @@
 #TODO: use user from from django.contrib.auth.models import User
 #TODO: from django.forms import ModelForm
+#TODO: from django.contrib import messages
+#TODO: from django.contrib.auth.decorators import login_required
 #TODO: request.META.HTTP_REFERER
 #TODO:  CRUD
