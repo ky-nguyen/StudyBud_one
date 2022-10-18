@@ -1,0 +1,4 @@
+#TODO: use user from from django.contrib.auth.models import User
+#TODO: from django.forms import ModelForm
+#TODO: request.META.HTTP_REFERER
+#TODO:  CRUD
